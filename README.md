@@ -1,4 +1,4 @@
-# AGO-Set-Credits-By-Role
+# AGO Set Credits By Role
 
 Allows the AGO school organizational administrator to set the assigned credits based on role type (custom or built-in).
 
